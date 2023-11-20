@@ -1,14 +1,11 @@
 # Kiosk Program
-- [SpartaCodingClub Java Mini Project](https://teamsparta.notion.site/JAVA-b540d0878ee14ad0a84a425a0904182d)
-
-# 과제 소개
 1. 메뉴판을 보고 주문할 수 있는 Java 프로그램  
 2. 화면은 System.out.println() 메소드를 사용해서 심플하게 출력한다.  
 3. 메뉴 클래스와 주문 클래스를 사용하여 Java 의 핵심 기능인 상속을 최대한 사용  
 4. 내가 좋아하는 메뉴들로 다양하게 구성해보세요!
 <img src=https://github.com/jiisuniui/kiosk-program/assets/82515938/dde288a7-426f-4ca2-b4b1-60791599ee9b, width=60%/>
 
-# ☕ 과제 요구사항 및 출력 예시
+# ☕ 요구사항 및 출력 예시
 ## 필수 요구사항
 ### 0. Java 클래스 설계 시 필수 요구사항!
 - 메뉴 클래스는 이름, 설명 필드를 가지는 클래스로 만들어주세요.
